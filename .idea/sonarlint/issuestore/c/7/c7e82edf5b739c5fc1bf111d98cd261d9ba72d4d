@@ -1,0 +1,19 @@
+
+Š
+java:S1130"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(í…’Ø8”¶ãç.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Åçşßúÿÿÿÿ8†ß›ãç.
+T	java:S106	"9Replace this use of System.out or System.err by a logger.(¸ØïU8Ãšàâç.
+d
+java:S1858"G"name" is already a string, there's no need to call "toString()" on it.(ÌËÛÖ8ñ÷àâç.
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8ËÁ¶ãç.
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8™ôŞâç.
+‡
+java:S1130"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Åçşßúÿÿÿÿ8†ß›ãç.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(×Ë D8ÂÌáâç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ8ñ÷àâç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºÙ„½8ñ÷àâç.
+I
+java:S2201",The return value of "toString" must be used.(ÌËÛÖ8ñ÷àâç.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãñª½8ÆÃóäç.

@@ -1,0 +1,9 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö…¾³
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(€Ë²:
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç‚ş©ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ô›µ’
+G
+java:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ8ÂÅóÎè.

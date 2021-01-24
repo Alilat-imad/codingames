@@ -1,0 +1,11 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¸ØïU8Ï»âç.
+H
+java:S1481"+Remove this unused "result" local variable.(è‚Ô¤8Š¨Üâç.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ8Õ†½âç.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(×Ë D8Ï»âç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ğ«şÿÿÿÿ8Õ†½âç.
+W
+java:S1854":Remove this useless assignment to local variable "result".(è‚Ô¤8Š¨Üâç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºÙ„½8Õ†½âç.

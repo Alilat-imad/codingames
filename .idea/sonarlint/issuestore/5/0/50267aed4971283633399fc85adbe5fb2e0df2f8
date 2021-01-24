@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÕœûÿÿÿÿ8´³«Ö.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ïÂ®«Ö.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ø±Úùÿÿÿÿ8²Ñ¯«Ö.
+H
+java:S1481"+Remove this unused "output" local variable.(òÍÿè8¦²ˆ¬Ö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…¸ÜÑ8ˆñ³«Ö.
+W
+java:S1854":Remove this useless assignment to local variable "output".(òÍÿè8¦²ˆ¬Ö.

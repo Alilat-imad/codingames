@@ -1,0 +1,10 @@
+
+Q
+java:S1481"4Remove this unused "distanceCounter" local variable.(ş³ŠÇ8ää„Í×.
+c
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ8±•Í×.
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÄÙêÇ×.
+X	java:S125"<This block of commented-out lines of code should be removed.(äÆ¾Ó8Ñª‚Í×.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñËâÿÿÿÿÿ8ë– Í×.

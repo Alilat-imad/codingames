@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìğ£8‡µ›áç.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ñª•ó8¾Õ™áç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´œàÚÿÿÿÿÿ8¾Õ™áç.
+\
+java:S2259"?A "NullPointerException" could be thrown; "x" is nullable here.(«²•·8‡µ›áç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…‘ÉÑıÿÿÿÿ8œÂ˜áç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ôó›ùÿÿÿÿ8œÂ˜áç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èÙÆ·ıÿÿÿÿ8Çµšáç.
